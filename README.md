@@ -19,6 +19,10 @@ Currently Undergraduated Student at "Crypto Optimization & Application LAb (COAL
 |National Cryptography Competition|Part B 3nd Prize|Oct, 2022|
 |Crypto Analysis Contest|Special Prize|Sep, 2022|
 
+📋 Projects
+* Constant-time SW Validation and Code Auto-generating Guideline (2023.04 ~ 2023.11)
+* KpqBench (2023.05 ~ ) [Go to repository](https://github.com/kpqclib/kpqclib)
+
 🏅 Algorithm Platinum Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mike0726)](https://solved.ac/mike0726/)  
