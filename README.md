@@ -5,7 +5,7 @@ Currently Undergraduated Student at "Crypto Optimization & Application LAb (COAL
 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-![SourceForge Languages](https://img.shields.io/sourceforge/languages/:project)
+<img src="https://simpleicons.org/icons/assemblyscript.svg"/> 
 
 💪🏼 Tools 
 
