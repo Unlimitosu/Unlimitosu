@@ -4,7 +4,7 @@ Currently Undergraduated Student at "Crypto Optimization & Application LAb (COAL
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=Assembly&logoColor=black"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=Assembly&logoColor=black"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/RISC-V-283272?style=flat-square&logo=RISC-V&logoColor=black"/> 
 
 💪🏼 Tools 
 
