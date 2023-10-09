@@ -1,5 +1,3 @@
-### Hi!
-
 Currently Undergraduated Student at "Crypto Optimization & Application LAb (COALA)"in Kookmin University.
 
 🛠️ Stacks
