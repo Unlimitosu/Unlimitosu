@@ -21,6 +21,10 @@ Currently Undergraduated Student at "Crypto Optimization & Application LAb (COAL
 * Constant-time SW Validation and Code Auto-generating Guideline (2023.04 ~ 2023.11)
 * KpqBench (2023.05 ~ ) [Go to repository](https://github.com/kpqclib/kpqclib)
 
+# 📖 __Publications__
+* AVX512Crypto: Parallel Implementations of Korean Block Ciphers Using AVX-512, IEEE ACCESS, 2023
+* KpqBench: Performance and Implementation Security Analysis of KpqC Competition Round 1 Candidates, IEEE ACCESS, 2023
+
 # 🏅 __Algorithm Platinum Level__
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mike0726)](https://solved.ac/mike0726/)  
