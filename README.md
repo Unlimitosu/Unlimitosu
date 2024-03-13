@@ -20,6 +20,7 @@ Currently Undergraduated Student at "Crypto Optimization & Application LAb (COAL
 # 📋 __Projects__
 * Constant-time SW Validation and Code Auto-generating Guideline (2023.04 ~ 2023.11)
 * KpqBench (2023.05 ~ ) [Go to repository](https://github.com/kpqclib/kpqclib)
+* Cryptography Module in pure Rust (2024.02 ~ ) [**Codes are not for public**]
 
 # 📖 __Publications__
 * AVX512Crypto: Parallel Implementations of Korean Block Ciphers Using AVX-512, IEEE ACCESS, 2023
