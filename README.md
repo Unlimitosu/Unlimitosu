@@ -1,4 +1,4 @@
-Currently on Master's Course at "Crypto & Security Engineering Laboratory(CSE)" in Kookmin University.
+Currently on Master's Course at "[Crypto & Security Engineering Laboratory(CSE)](https://sites.google.com/kookmin.ac.kr/cselab)" in Kookmin University.
 
 # 🛠️ __Stacks__
 
