@@ -22,10 +22,9 @@ Currently on Master's Course at "Crypto & Security Engineering Laboratory(CSE)"i
 * KpqBench (2023.05 ~ ) [Go to repository](https://github.com/kpqclib/kpqclib)
 * Cryptography Module in pure Rust (2024.02 ~ ) [**Codes are not for public**]
 
-# 📖 __Publications__
-* AVX512Crypto: Parallel Implementations of Korean Block Ciphers Using AVX-512, IEEE ACCESS, 2023
+# 📖 __Publications__ (International Journals Only)
 * KpqBench: Performance and Implementation Security Analysis of KpqC Competition Round 1 Candidates, IEEE ACCESS, 2023
+* AVX512Crypto: Parallel Implementations of Korean Block Ciphers Using AVX-512, IEEE ACCESS, 2023
 
 # 🏅 __Algorithm Platinum Level__
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mike0726)](https://solved.ac/mike0726/)  
