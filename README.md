@@ -1,6 +1,6 @@
 Currently on Master's Course at "[Crypto & Security Engineering Laboratory(CSE)](https://sites.google.com/kookmin.ac.kr/cselab)" in Kookmin University.
 
-Also, I'm a whisky lover and favorite distillery is [Clynelish](https://maps.app.goo.gl/pB6jKjdwhY3ZMEus7)! 
+Also, I'm a whisky lover and favorite distillery is [Clynelish](https://maps.app.goo.gl/pB6jKjdwhY3ZMEus7)!🥃
 
 # 🛠️ __Stacks__
 
