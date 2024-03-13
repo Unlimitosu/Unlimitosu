@@ -1,12 +1,12 @@
-Currently Undergraduated Student at "Crypto Optimization & Application LAb (COALA)"in Kookmin University.
+Currently on Master's Course at "Crypto & Security Engineering Laboratory(CSE)"in Kookmin University.
 
 # 🛠️ __Stacks__
 
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=Assembly&logoColor=white"/> <img src="https://img.shields.io/badge/RISCV-283272?style=flat-square&logo=RISC-V&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=Assembly&logoColor=white"/> <img src="https://img.shields.io/badge/RISCV-283272?style=flat-square&logo=RISC-V&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 
 # 💪🏼 __Tools__ 
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-512BD4?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-512BD4?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  
 
 # 🏆 __Awards__
 |Competition|Prize|Date|
