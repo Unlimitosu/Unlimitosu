@@ -20,7 +20,7 @@ Also, I'm a whisky lover and favorite distillery is [Clynelish](https://maps.app
 |Crypto Analysis Contest|Special Prize|Sep, 2022|
 
 # 📋 __Projects__
-* Constant-time SW Validation and Code Auto-generating Guideline (2023.04 ~ 2023.11)
+* Constant-time SW Validation and Code Auto-generating Guideline (2023.04 ~ 2023.11) [used [Jasmin](https://github.com/jasmin-lang/jasmin) and [EasyCrypt](https://github.com/EasyCrypt/easycrypt)]
 * KpqBench (2023.05 ~ ) [Go to repository](https://github.com/kpqclib/kpqclib)
 * Cryptography Module in pure Rust (2024.02 ~ ) [**Codes are not for public**]
 
