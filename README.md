@@ -13,6 +13,7 @@ Also, I'm a whisky lover and favorite distillery is [Clynelish](https://maps.app
 # 🏆 __Awards__
 |Competition|Prize|Date|
 |------|---|---|
+|KIISC'24 Winter|Best Paper Award|Nov, 2024|
 |National Cryptography Competition|Part C 2nd Prize|Oct, 2023|
 |KIISC'23 Autumn|Best Paper Award|Sep, 2023|
 |Side Channel Analysis Competition|Best Paper Award|Jun, 2023|
